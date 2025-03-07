@@ -29,7 +29,6 @@ The **Blood Bank Services Manager** is a web-based application designed to strea
 - **Frontend**:
   - HTML
   - CSS
-  - JavaScript
 - **Backend**:
   - Python
   - Django Framework
